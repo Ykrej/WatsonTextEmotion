@@ -14,7 +14,7 @@ import com.ibm.watson.developer_cloud.alchemy.v1.model.DocumentEmotion;
 //This class is used to access the Watson AlchemyLanguage API and received parsed/encoded data
 public class EmotionParser {
 
-	private static final String apiKey = "adff67995afa2b8426115c4f33c7c9a63498d884";// MUST
+	private static final String apiKey = "";// MUST HAVE  IBM BLUEMIX API KEY
 																					// HAVE
 																					// VALID
 																					// API
